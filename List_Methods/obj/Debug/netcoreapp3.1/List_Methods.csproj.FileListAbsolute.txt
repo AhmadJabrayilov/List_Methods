@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\bin\Debug\netcoreapp3.1\List_Methods.exe
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\bin\Debug\netcoreapp3.1\List_Methods.deps.json
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\bin\Debug\netcoreapp3.1\List_Methods.runtimeconfig.json
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\bin\Debug\netcoreapp3.1\List_Methods.runtimeconfig.dev.json
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\bin\Debug\netcoreapp3.1\List_Methods.dll
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\bin\Debug\netcoreapp3.1\List_Methods.pdb
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.AssemblyInfo.cs
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.dll
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.pdb
+C:\Users\User\Desktop\PRACTIC\List_Methods\List_Methods\obj\Debug\netcoreapp3.1\List_Methods.genruntimeconfig.cache
